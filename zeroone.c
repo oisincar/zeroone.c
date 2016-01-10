@@ -12,7 +12,6 @@
   ){O=n[           g];f=i/2+(k-i/2          )*a-(c-e/2)*b
   +(i*l);             k=O==10?l++           ,0:O!=32?O=!c
     ||c==e?q              ?q[g%             9]:O:64,p[f]=
-    a<0?O:p[f]==32?O:p[f],-~k:        -~k;}}g=0;while(g++<j){
-        p[g*i-1]=10;}printf           ("\r%s\x1b[%iA",p,j);}}
- 
- /// Ignore warnings when running. Oisin Carroll 9/1/2015 \\\
+    a<0?O:p[f]==32?O:p[f],-~k:        -~k;}}g=0;while(g++<j){ 
+        p[g*i-1]=10;}printf           ("\r%s\x1b[%iA",p,j);}} 
+
