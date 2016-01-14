@@ -38,7 +38,7 @@ Also, if you run it with the command "who's the best" then it'll replace all cha
 I had to take some shortcuts to get it this short (not including all required libaries, not declairing all data types, ect). The compiler just likes to moan at you. Ignore it or tell it to shut up by running with: -w.
 
 If you save it as zeroone.c you can:
-> gcc -o zeroone zeroone.c -w
+> gcc -o zeroone zeroone.c -w -lm
 
 Then:
 
