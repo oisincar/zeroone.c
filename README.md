@@ -26,6 +26,10 @@ And this is the console output:
 
 ![gif](http://i.giphy.com/xT77XLd01vQzaYzmuY.gif)
 
+Here's it edited to the netsoc logo:
+
+![gif](http://i.giphy.com/RIlwCLpFmtyqk.gif)
+
 
 You can reshape the source code to whatever, it'll still work (as long the source is narrower than your terminal window). You can even change the thickness of the model and the speed at which it turns! 
 
