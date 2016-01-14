@@ -26,12 +26,11 @@ And this is the console output:
 
 ![gif](http://i.giphy.com/xT77XLd01vQzaYzmuY.gif)
 
-Here's it edited to the netsoc logo:
+You can reshape the source code to whatever, it'll still work (as long the source is narrower than your terminal window). You can even change the thickness of the model and the speed at which it turns! 
+
+Here's it edited to the shape of the netsoc logo:
 
 ![gif](http://i.giphy.com/RIlwCLpFmtyqk.gif)
-
-
-You can reshape the source code to whatever, it'll still work (as long the source is narrower than your terminal window). You can even change the thickness of the model and the speed at which it turns! 
 
 Also, if you run it with the command "who's the best" then it'll replace all charachters in the looping animation with "Oisincar." (It actually only checks if you command starts with w but.. Shhh.)
 
